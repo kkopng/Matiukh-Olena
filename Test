@@ -1,0 +1,6 @@
+# example_code.R
+# Цей код обчислює середнє значення вектора чисел у R
+
+data <- c(10, 20, 30, 40, 50)
+average <- mean(data)
+print(paste("Середнє значення:", average))
